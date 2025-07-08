@@ -6,10 +6,10 @@ Guess a 5-letter word in 6 tries. Each guess gives you visual feedback, just lik
 
 🖥️ Preview
 ✅ Correct Guess Example
-![Wordle Guessed](./wordle_success.png)
+![Wordle Guessed](./Word guessed.png)
 
 ❌ Game Over Example
-![Wordle Failed](./wordle_fail.png)
+![Wordle Failed](./Word not)
 
 --------------------------------------------------------------
 
@@ -31,6 +31,7 @@ Guess a 5-letter word in 6 tries. Each guess gives you visual feedback, just lik
 --------------------------------------------------------------
 
 🛠️ Tech Stack
+
 * Language: Java
 
 * GUI: Java Swing
@@ -40,6 +41,7 @@ Guess a 5-letter word in 6 tries. Each guess gives you visual feedback, just lik
 --------------------------------------------------------------
 
 🚀 How to Run
+
 1)Clone the repo:
   git clone https://github.com/g9shubh/Wordle.git
   cd Wordle
@@ -65,12 +67,12 @@ Conditional logic and feedback
 
 Basic game mechanics
 
-Event-driven programming in Java
 --------------------------------------------------------------
 
 ✍️ Author
+
 Made with ❤️ by @g9shubh
-Feel free to ⭐ star this project if you liked it!
+
 --------------------------------------------------------------
 
 📌 Note
