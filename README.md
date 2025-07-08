@@ -5,11 +5,12 @@ Guess a 5-letter word in 6 tries. Each guess gives you visual feedback, just lik
 --------------------------------------------------------------
 
 🖥️ Preview
+
 ✅ Correct Guess Example
-![Wordle Guessed](./Word guessed.png)
+Open the word guessed png file
 
 ❌ Game Over Example
-![Wordle Failed](./Word not)
+Open the word not guessed png file
 
 --------------------------------------------------------------
 
